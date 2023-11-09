@@ -1,0 +1,5 @@
+,Time required in ms,,,,,,
+n,Merge Sort,Quicksort,Randomized Quicksort,Insertion Sort,Quicksort with Sorted Input,Randomized Quicksort with Sorted Input,STL sort() function
+0,0,0,0,0,0,0,0
+1,0,0,0,0,0,0,0
+2,0,0,0,0,0,0,0
